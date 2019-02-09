@@ -12,6 +12,8 @@
     * Check that packages are available
     ```
     $ cd Cucumber-Selenium-TestNG
+    
+    Update your lambdatest username and access key in Config.properties file
 
 
 
