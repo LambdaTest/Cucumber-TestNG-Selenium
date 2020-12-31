@@ -1,2 +1,3 @@
 tasks:
   - init: mvn compile
+    command: mvn test
